@@ -1,4 +1,4 @@
-//gihub code link -
+//gihub code link - https://github.com/SumaiyatunNaharKusum/assaginment/blob/master/assignment.js
 //kilometer to meter converter
 function kilometerToMeter(kilometer) {
   var Meter = kilometer * 1000;
